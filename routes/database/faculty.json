@@ -1,0 +1,2364 @@
+{
+   "sas_phy": [
+      {
+         "name": "Dr. Indra Rajasingh",
+         "hierarchy": "Dean and Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Dr.IndraRajaSingh.jpg"
+      },
+      {
+         "name": "Dr. Arun Kumar Sarma",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Arun-Kumar-Sarma.jpg"
+      },
+      {
+         "name": "Dr. Atanu Dutta",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Atanu-Dutta.jpg"
+      },
+      {
+         "name": "Dr. John Kennedy L",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50046-1.jpg"
+      },
+      {
+         "name": "Dr. Navamathavan R",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Navamathavan-R.jpg"
+      },
+      {
+         "name": "Dr. Gopinath Mudhana",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Gopinath-Mudhana.jpg"
+      },
+      {
+         "name": "Dr. Manikandan N",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Manikandan-N.jpg"
+      },
+      {
+         "name": "Dr. Vinitha G",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Vinitha-G.jpg"
+      },
+      {
+         "name": "Dr. Eithiraj R D",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2021/02/51766.jpg"
+      },
+      {
+         "name": "Dr. Punithavelan N",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Punithavelan-N.jpg"
+      },
+      {
+         "name": "Dr. Sanjit Das",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Dr.Sanjit-Das.jpg"
+      },
+      {
+         "name": "Dr. Ajitha B",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51687.jpg"
+      },
+      {
+         "name": "Dr. Ayon Patra",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/04/Dr.Ayon_Patra.jpg"
+      },
+      {
+         "name": "Dr. Caroline Ponraj",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2019/12/Prof.Caroline-Ponraj.jpg"
+      },
+      {
+         "name": "Dr. Nirupam Dutta",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/Nirupam-Dutta_Assistant-Professor.jpg"
+      },
+      {
+         "name": "Dr. Sathya Narayana Kumar",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51741.jpg"
+      },
+      {
+         "name": "Dr. Sourav Adhikary",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51688.jpg"
+      },
+      {
+         "name": "Dr. Vigneshwaran Swaminathan",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51690.jpg"
+      }
+   ],
+   "sas_mat": [
+      {
+         "name": "Dr. Indra Rajasingh",
+         "hierarchy": "Dean and Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Dr.IndraRajaSingh.jpg"
+      },
+      {
+         "name": "Dr. Kaliyappan M",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Kaliyappan.jpg"
+      },
+      {
+         "name": "Dr. Kalyani Desikan",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Kalyani-Desikan.jpg"
+      },
+      {
+         "name": "Dr. Mini Ghosh",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Mini-Ghosh.jpg"
+      },
+      {
+         "name": "Dr. Prabhakar V",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prabhakar.jpg"
+      },
+      {
+         "name": "Dr. Vanchinathan P",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Vanchinathan-P.jpg"
+      },
+      {
+         "name": "Dr. David Maxim Gururaj A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/David-Maxim-Gururaj.jpg"
+      },
+      {
+         "name": "Dr. Muthunagai K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Muthunagai.jpg"
+      },
+      {
+         "name": "Dr. J. Anuradha",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51140.jpg"
+      },
+      {
+         "name": "Dr. Balamurugan B J",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Balamurugan-B-J.jpg"
+      },
+      {
+         "name": "Dr. Pankaj Shukla",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Pankaj-Shukla.jpg"
+      },
+      {
+         "name": "Dr. Revathi G K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Revathi-G-K.jpg"
+      },
+      {
+         "name": "Dr. Saroj Kumar Dash",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50184_Saroj.jpg"
+      },
+      {
+         "name": "Dr. Srutha Keerthi B",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Srutha-Keerthi-B.jpg"
+      },
+      {
+         "name": "Dr. Vidhya V",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Vidhya_51020.jpg"
+      },
+      {
+         "name": "Dr. A Felix",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/A-Felix.jpg"
+      },
+      {
+         "name": "Dr. Abhishek Kumar Singh",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Abhishek-Kumar-Singh.jpg"
+      },
+      {
+         "name": "Dr. Berin Greeni A",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Berin-Greeni-A.jpg"
+      },
+      {
+         "name": "Dr. Devi Yamini S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/dr-devi-yamini.jpg"
+      },
+      {
+         "name": "Dr. Dhanasekar S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dhanasekar.jpg"
+      },
+      {
+         "name": "Dr. Dhivya M",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/M.-DHIVYA.jpg"
+      },
+      {
+         "name": "Dr. Durgaprasad P",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51684.jpg"
+      },
+      {
+         "name": "Dr. Geetanjali Chattopadhyay",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51694.jpg"
+      },
+      {
+         "name": "Dr. Hannah Grace G",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50199_Hannah-Grace-G.jpg"
+      },
+      {
+         "name": "Dr. Jaganathan B",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50196_JAGANATHAN_B-whitebackground.jpg"
+      },
+      {
+         "name": "Dr. Jayagopal R",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51141.jpg"
+      },
+      {
+         "name": "Dr. Manivannan A",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Manivannan-A.jpg"
+      },
+      {
+         "name": "Dr. Mohana N",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50197_Mohana.jpg"
+      },
+      {
+         "name": "Dr. Nathiya N",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Nathiya-N.jpg"
+      },
+      {
+         "name": "Dr. Parthiban V",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Parthiban-V.jpg"
+      },
+      {
+         "name": "Dr. Poulomi De",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Poulomi-De.jpg"
+      },
+      {
+         "name": "Dr. Pravinkashyap Kambhatla",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51685.jpg"
+      },
+      {
+         "name": "Dr. Radha S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Radha-S.jpg"
+      },
+      {
+         "name": "Dr. Somnath Bera",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51686.jpg"
+      },
+      {
+         "name": "Dr. Sudip Debnath",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51683.jpg"
+      },
+      {
+         "name": "Dr. Uma Maheswari S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Dr.Umamaheswari-S.jpg"
+      },
+      {
+         "name": "Dr. Vijay Kumar P",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51695.jpg"
+      }
+   ],
+   "sas_chem": [
+      {
+         "name": "Dr. Indra Rajasingh",
+         "hierarchy": "Dean and Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Dr.IndraRajaSingh.jpg"
+      },
+      {
+         "name": "Dr. Mahalakshmi S",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.jpg"
+      },
+      {
+         "name": "Dr. Balamurali M M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Balamurali-M-M.jpg"
+      },
+      {
+         "name": "Dr. Rajendra Kumar K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Rajendra-Kumar-K.jpg"
+      },
+      {
+         "name": "Dr. Sangeetha P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Sangeetha-P.jpg"
+      },
+      {
+         "name": "Dr. Fateh Veer Singh",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Fateh-Veer-Singh.jpg"
+      },
+      {
+         "name": "Dr. Jayanta Parui",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Jayanta-Parui.jpg"
+      },
+      {
+         "name": "Dr. Krishnendu Biswas",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Krishnendu-Biswas.jpg"
+      },
+      {
+         "name": "Dr. Milind Shrinivas Dangate",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Milind-Shrinivas-Dangate.jpg"
+      },
+      {
+         "name": "Dr. Santosh G",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Santosh-G.jpg"
+      },
+      {
+         "name": "Dr. Saravanakumar R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Saravanakumar-R.jpg"
+      },
+      {
+         "name": "Dr. Tanushree Choudhry",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Tanushree-Choudhry.jpg"
+      },
+      {
+         "name": "Dr. Buthanapalli Ramakrishna",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Buthanapalli-Ramakrishna.jpg"
+      },
+      {
+         "name": "Dr. Ilaiyaraja Perumal",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Ilaiyaraja-Perumal.jpg"
+      },
+      {
+         "name": "Dr. Kiran Kumar Tadi",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/kiran-kumar-tadi-profile.jpg"
+      }
+   ],
+   "socialscience": [
+      {
+         "name": "Dr. Saradha Rajkumar",
+         "hierarchy": "Dean and Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Saradha-Rajkumar.jpg"
+      },
+      {
+         "name": "Dr. Alamelu C",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Alamelu-C.jpg"
+      },
+      {
+         "name": "Dr. Maya Rathnasabapathy",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Maya-Rathnasabapathy.jpg"
+      },
+      {
+         "name": "Dr. Ajit I",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Ajit-I.jpg"
+      },
+      {
+         "name": "Dr. Bhuvaneswari G",
+         "hierarchy": "Division Chair & Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Bhuvaneswari-G.jpg"
+      },
+      {
+         "name": "Dr. Bhuvaneswari R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Bhuvaneswari-R.jpg"
+      },
+      {
+         "name": "Dr. Rajasekaran V",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Rajasekaran-V.jpg"
+      },
+      {
+         "name": "Prof. Savariah Xavier Y C",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Savariah-Xavier-Y-C.jpg"
+      },
+      {
+         "name": "Dr. Vijayalakshmi V",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Vijayalakshmi.jpg"
+      },
+      {
+         "name": "Dr. Devi Meenakshi K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51755.jpg"
+      },
+      {
+         "name": "Dr. Alan G",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Alan-G.jpg"
+      },
+      {
+         "name": "Dr. Akaitab Mukherjee",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/akaitab.jpg"
+      },
+      {
+         "name": "Dr. Binu Sahayam D",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51449.jpg"
+      },
+      {
+         "name": "Dr. Govindarajan P",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Govindarajan-P.jpg"
+      },
+      {
+         "name": "Dr. Krupa Shah",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51692.jpg"
+      },
+      {
+         "name": "Dr. Luke Gerard Christie",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Luke-Gerard-Christie.jpg"
+      },
+      {
+         "name": "Dr. Manali",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/Dr-Manali.jpg"
+      },
+      {
+         "name": "Dr. Patchainayagi S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Patchainayagi-S.jpg"
+      },
+      {
+         "name": "Prof. Rajitha K",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Rajitha-K.jpg"
+      },
+      {
+         "name": "Dr. Rashmi Rekha Borah",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Rashmi-Rekha-Borah.jpg"
+      },
+      {
+         "name": "Dr. Sivakami B",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Sivakami-B.jpg"
+      },
+      {
+         "name": "Dr. Subhasri Vijayakumar",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/Dr-1.jpg"
+      },
+      {
+         "name": "Dr. Swati Sharma",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51693.jpg"
+      },
+      {
+         "name": "Dr. Sibaram Badatya",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51021.jpg"
+      },
+      {
+         "name": "Dr. Tiwari Mahalaxmi Shivshankar",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Tiwari-Mahalaxmi-Shivshankar.jpg"
+      },
+      {
+         "name": "Dr. Vijayalakshmi V",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Vijayalakshmi-V.jpg"
+      },
+      {
+         "name": "Prof. Evangeline Sabina Rajasekar",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Evangeline-Sabina-Rajasekar.jpg"
+      },
+      {
+         "name": "Prof. Pooja Raghav",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Prof.-Pooja-Raghav.jpg"
+      }
+   ],
+   "computer": [
+      {
+         "name": "Dr. Jagadeesh Kannan R",
+         "hierarchy": "Professor and Dean",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Jagadeesh-Kannan-R.jpg"
+      },
+      {
+         "name": "Dr. Geetha S",
+         "hierarchy": "Professor and Associate Dean",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Geetha-S.jpg"
+      },
+      {
+         "name": "Dr. Bharadwaja Kumar G",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Bharadwaja-Kumar.jpg"
+      },
+      {
+         "name": "Dr. Ganesan R",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Ganesan-R.jpg"
+      },
+      {
+         "name": "Dr. Janaki Meena M",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Janaki-Meena-M.jpg"
+      },
+      {
+         "name": "Dr. Jeganathan L",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Jegannathan-L.jpg"
+      },
+      {
+         "name": "Dr. Maheswari N",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Maheswari-N.jpg"
+      },
+      {
+         "name": "Dr. Nagaraj S V",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Nagaraj-S-V.jpg"
+      },
+      {
+         "name": "Dr. Nayeemulla Khan A",
+         "hierarchy": "Professor and Dean Academics",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Nayeemulla-Khan.jpg"
+      },
+      {
+         "name": "Dr. Nithyanandam P",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Nithyanandam-P.jpg"
+      },
+      {
+         "name": "Dr. Parvathi R",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/50186_parvathi.jpg"
+      },
+      {
+         "name": "Dr. Pattabiraman V",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/image-3.jpg"
+      },
+      {
+         "name": "Dr. Rajesh Kanna B",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Rajesh-Kanna-B.jpg"
+      },
+      {
+         "name": "Dr. Subbulakshmi T",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Subbulakshmi-T.jpg"
+      },
+      {
+         "name": "Dr. Syed Ibrahim S P",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/04/Dr.Syed-Ibrahim-S-P.jpg"
+      },
+      {
+         "name": "Dr. Viswanathan V",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Viswanathan-V.jpg"
+      },
+      {
+         "name": "Dr. Asha S",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Asha-S.jpg"
+      },
+      {
+         "name": "Dr. Jenila Livingston L M",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Jenila-Livingston-L-M.jpg"
+      },
+      {
+         "name": "Dr. Justus S",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Justus-S.jpg"
+      },
+      {
+         "name": "Dr. Malathi G",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Malathi-G.jpg"
+      },
+      {
+         "name": "Dr. Neela Narayanan V",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Neela-Narayanan-V.jpg"
+      },
+      {
+         "name": "Dr. Priyadarshini J",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Priyadarshini-J.jpg"
+      },
+      {
+         "name": "Dr. Renta Chintala Bhargavi",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Renta-Chintala-Bhargavi.jpg"
+      },
+      {
+         "name": "Dr. Saleena B",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Saleena-B.jpg"
+      },
+      {
+         "name": "Dr. Sivabalakrishnan M",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/50398-526x526.jpg"
+      },
+      {
+         "name": "Dr. Alok Chauhan",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Alok-Chauhan.jpg"
+      },
+      {
+         "name": "Dr. Anusha K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/Anusha.jpg"
+      },
+      {
+         "name": "Dr. Appalaraju Muralidhar",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Appalaraju-Muralidhar.jpg"
+      },
+      {
+         "name": "Dr. Asnath Victy Phamila Y",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Asnath-Victy-Phamila-Y.jpg"
+      },
+      {
+         "name": "Dr. B V A N S S Prabhakar Rao",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Prabhakar-Rao-B-V-A-N-S-S.jpg"
+      },
+      {
+         "name": "Dr. Bharathi Raja S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Bharathi-Raja-S.jpg"
+      },
+      {
+         "name": "Dr. Ganala Santoshi",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51679.jpg"
+      },
+      {
+         "name": "Dr. Harini S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Harini-S.jpg"
+      },
+      {
+         "name": "Dr. Hema N",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Hema-N.jpg"
+      },
+      {
+         "name": "Dr. Hepsiba Mabel V",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Hepsiba-Mabel-V.jpg"
+      },
+      {
+         "name": "Dr. Jayaram B",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Jayaram-B.jpg"
+      },
+      {
+         "name": "Dr. Kanchana Devi V",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Kanchana-Devi-V.jpg"
+      },
+      {
+         "name": "Dr. Karmel A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Karmel-A.jpg"
+      },
+      {
+         "name": "Dr. Kumar R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Kumar-R.jpg"
+      },
+      {
+         "name": "Dr. Maheswari R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Maheswari-R.jpg"
+      },
+      {
+         "name": "Dr. Maheswari S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Maheswari-S.jpg"
+      },
+      {
+         "name": "Dr. Nachiyappan S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Nachiyappan-S.jpg"
+      },
+      {
+         "name": "Dr. Nisha V.M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Nisha-V.M.jpg"
+      },
+      {
+         "name": "Dr. Nithya Darisini P.S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Nithya-Darisini-P.jpg"
+      },
+      {
+         "name": "Dr. Pradeep Kumar T S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Pradeep-Kumar-T-S.jpg"
+      },
+      {
+         "name": "Dr. Prakash P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51682.jpg"
+      },
+      {
+         "name": "Dr. Prassanna J",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Prassanna-J.jpg"
+      },
+      {
+         "name": "Dr. Premalatha M",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Premalatha-M.jpg"
+      },
+      {
+         "name": "Dr. Priyaadharshini M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Priyaadharshini-M.jpg"
+      },
+      {
+         "name": "Dr. Rabindra Kumar Singh",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Rabindra-Kumar-Singh.jpg"
+      },
+      {
+         "name": "Dr. Radha R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/51754-Dr.jpg"
+      },
+      {
+         "name": "Dr. Rajalakshmi R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Rajalakshmi-R.jpg"
+      },
+      {
+         "name": "Dr. Rajarajeswari S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Rajarajeswari-S.jpg"
+      },
+      {
+         "name": "Dr. Rajkumar S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/Dr-Rajkumar_new.jpg"
+      },
+      {
+         "name": "Dr. Ramesh Ragala",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Ramesh-Ragala.jpg"
+      },
+      {
+         "name": "Dr. Rekha D",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Rekha-D.jpg"
+      },
+      {
+         "name": "Dr. Renuka Devi S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Renuka-Devi-S.jpg"
+      },
+      {
+         "name": "Dr. Rukmani P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Rukmani-P.jpg"
+      },
+      {
+         "name": "Dr. Sajidha S A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Sajidha-S-A.jpg"
+      },
+      {
+         "name": "Dr. Sandhya P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Sandhya-P.jpg"
+      },
+      {
+         "name": "Dr. Sathis Kumar B",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Sathis-Kumar-B..jpg"
+      },
+      {
+         "name": "Dr. Sharath Kumar Jagannathan",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Sharath-Kumar-Jagannathan.jpg"
+      },
+      {
+         "name": "Dr. Shola Usha Rani",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Shola-Usha-Rani.jpg"
+      },
+      {
+         "name": "Dr. Shridevi S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Shridevi-S.jpg"
+      },
+      {
+         "name": "Dr. Shyamala L",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Shyamala-L.jpg"
+      },
+      {
+         "name": "Dr. Sivagami M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Sivagami-M.jpg"
+      },
+      {
+         "name": "Dr. Suganya G",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Suganya-G.jpg"
+      },
+      {
+         "name": "Dr. Sweetlin Hemalatha C",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Sweetlin-Hemalatha-C-e1592322787443.jpg"
+      },
+      {
+         "name": "Dr. Tulasi Prasad Sariki",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Tulasi-Prasad-Sariki.jpg"
+      },
+      {
+         "name": "Dr. Umamaheswari E",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Umamaheswari-E.jpg"
+      },
+      {
+         "name": "Dr. Umitty Srinivasa Rao",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Umitty-Srinivasa-Rao.jpg"
+      },
+      {
+         "name": "Dr. Venkatraman S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51652.jpg"
+      },
+      {
+         "name": "Dr. Vijayalakshmi A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Vijayalakshmi-A.jpg"
+      },
+      {
+         "name": "Prof. Rajesh Kumar",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Rajesh-Kumar.jpg"
+      },
+      {
+         "name": "Prof. Sridhar R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Sridhar-R.jpg"
+      },
+      {
+         "name": "Prof. Thomas Abraham J V",
+         "hierarchy": "Assistant Professor (SG)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Thomas-Abraham-J-V.jpg"
+      },
+      {
+         "name": "Dr. Abdul Quadir Md",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Abdul-Quadir-Md.jpg"
+      },
+      {
+         "name": "Dr. Amit Kumar Tyagi",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Amit-Kumar-Tyagi.jpg"
+      },
+      {
+         "name": "Dr. Amrit Pal",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51665.jpg"
+      },
+      {
+         "name": "Dr. Anita X",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51662.jpg"
+      },
+      {
+         "name": "Dr. Anusooya G",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/50408_AnusooyaG.jpg"
+      },
+      {
+         "name": "Dr. Arun Kumar Sivaraman",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51678.jpg"
+      },
+      {
+         "name": "Dr. Ashoka Rajan R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51654-2-526x526.jpg"
+      },
+      {
+         "name": "Dr. Ayesha SK",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-SK-Ayesha.jpg"
+      },
+      {
+         "name": "Dr. Balasundaram A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/04/Dr.-Balasundaram-A.jpg"
+      },
+      {
+         "name": "Dr. Bhanu Chander Balusa",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51668.jpg"
+      },
+      {
+         "name": "Dr. Bhuvaneswari A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Bhuvaneswari.jpg"
+      },
+      {
+         "name": "Dr. Braveen M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Braveen-M.jpg"
+      },
+      {
+         "name": "Dr. Christy Jackson J",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Christy-Jackson-J.jpg"
+      },
+      {
+         "name": "Dr. Cinu C Kiliroor",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/Cinu-C-Kiliroor.jpg"
+      },
+      {
+         "name": "Dr. Edward Jero S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2021/01/51653.jpg"
+      },
+      {
+         "name": "Dr. Ganapathy S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Ganapathy-S.jpg"
+      },
+      {
+         "name": "Dr. Gayathri R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Gayathri-R.jpg"
+      },
+      {
+         "name": "Dr. Girija R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51670.jpg"
+      },
+      {
+         "name": "Dr. Graceline Jasmine S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Graceline-Jasmine-S.jpg"
+      },
+      {
+         "name": "Dr. Ilavarasi A K",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Ilavarasi-A-K.jpg"
+      },
+      {
+         "name": "Dr. Jani Anbarasi L",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Jani-Anbarasai-L.jpg"
+      },
+      {
+         "name": "Dr. Jayalakshmi S L",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2021/01/51655.jpg"
+      },
+      {
+         "name": "Dr. Jayanthi R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Jayanthi-R.jpg"
+      },
+      {
+         "name": "Dr. Jothi R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/04/Dr.-R-Jothi.jpg"
+      },
+      {
+         "name": "Dr. Kirthica S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Kirthica-S.jpg"
+      },
+      {
+         "name": "Dr. Leninisha S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51667.jpg"
+      },
+      {
+         "name": "Dr. Manas Ranjan Prusty",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/04/Dr.-Manas-Ranjan-Prusty.jpg"
+      },
+      {
+         "name": "Dr. Manish Kumar",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51671.jpg"
+      },
+      {
+         "name": "Dr. Menaka Pushpa A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51656.jpg"
+      },
+      {
+         "name": "Dr. Mirza Galib Anwarul Husain Baig",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51661.jpg"
+      },
+      {
+         "name": "Dr. Muthukumaran K",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51651.jpg"
+      },
+      {
+         "name": "Dr. Muthumanikandan V",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Muthumanikandan-V.jpg"
+      },
+      {
+         "name": "Dr. Oswald C",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Oswald-C.jpg"
+      },
+      {
+         "name": "Dr. Parkavi K",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51658.jpg"
+      },
+      {
+         "name": "Dr. Pavithra L K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51657.jpg"
+      },
+      {
+         "name": "Dr. Phrangboklang Lyngton Thangkhiew",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51664-1.jpg"
+      },
+      {
+         "name": "Dr. Pradeep K",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/Dr.K.Pradeep.jpg"
+      },
+      {
+         "name": "Dr. Pradeep K V",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/07/KVP.jpg"
+      },
+      {
+         "name": "Dr. Prakash B",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50249_prakashb.jpg"
+      },
+      {
+         "name": "Dr. Prasad M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Prasad-M.jpg"
+      },
+      {
+         "name": "Dr. Punitha K",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Punitha-K.jpg"
+      },
+      {
+         "name": "Dr. Radhika Selvamani B",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Radhika-Selvamani.jpg"
+      },
+      {
+         "name": "Dr. Rajesh M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/Rajesh_M_new.jpg"
+      },
+      {
+         "name": "Dr. Richa",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51675.jpg"
+      },
+      {
+         "name": "Dr. Rishikeshan C A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51672.jpg"
+      },
+      {
+         "name": "Dr. Sakthivel V",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51680.jpg"
+      },
+      {
+         "name": "Dr. Sandeep Kumar Satapathy",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51673.jpg"
+      },
+      {
+         "name": "Dr. Sathyarajasekaran K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Sathyarajasekaran-K.jpg"
+      },
+      {
+         "name": "Dr. Seshu Babu Pulagara",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51681.jpg"
+      },
+      {
+         "name": "Dr. Shivani Gupta",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51659.jpg"
+      },
+      {
+         "name": "Dr. Sindhia Lingaswamy",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51676.jpg"
+      },
+      {
+         "name": "Dr. Subbulakshmi P",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51663.jpg"
+      },
+      {
+         "name": "Dr. Subhra Rani Patra",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51674.jpg"
+      },
+      {
+         "name": "Dr. Swaminathan A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51669.jpg"
+      },
+      {
+         "name": "Dr Vani V",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51660.jpg"
+      },
+      {
+         "name": "Dr. Vedhapriyavadhana R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51677.jpg"
+      },
+      {
+         "name": "Dr. Vergin Raja Sarobin M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Vergin-Raja-Sarobin-M.jpg"
+      },
+      {
+         "name": "Dr. Vijayakumar K P",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51743.jpg"
+      },
+      {
+         "name": "Prof. Ilakiyaselvan N",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Ilakiyaselvan-N.jpg"
+      },
+      {
+         "name": "Prof. Jayasudha M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Jayasudha-M.jpg"
+      },
+      {
+         "name": "Prof. Prabakaran R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Prabakaran-R.jpg"
+      },
+      {
+         "name": "Prof. Kavya Alluru",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Kavya-Alluru.jpg"
+      },
+      {
+         "name": "Prof. Khadar Nawas K",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Khadar-Nawas-K.jpg"
+      },
+      {
+         "name": "Prof. Nivedita M",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Nivedita-M.jpg"
+      },
+      {
+         "name": "Prof. Rajiv Vincent",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.-Rajiv-Vincent.jpg"
+      }
+   ],
+   "electrical": [
+      {
+         "name": "Dr. Peer Fathima A",
+         "hierarchy": "Dean – Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/07/peer_fathima.jpg"
+      },
+      {
+         "name": "Dr. Febin Daya J L",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50152.jpg"
+      },
+      {
+         "name": "Dr. Hemamalini.S",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50128.jpg"
+      },
+      {
+         "name": "Dr. Lenin N C",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50375.jpg"
+      },
+      {
+         "name": "Dr. Nithya Venkatesan",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50153.jpg"
+      },
+      {
+         "name": "Dr. Prabhakar M",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50287.jpg"
+      },
+      {
+         "name": "Dr. Premalatha L",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50776.jpg"
+      },
+      {
+         "name": "Dr. Senthil Kumar N",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50264.jpg"
+      },
+      {
+         "name": "Dr. Sreedevi V T",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50083-shree.jpg"
+      },
+      {
+         "name": "Dr. Angeline Ezhilarasi G",
+         "hierarchy": "Associate Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50345.jpg"
+      },
+      {
+         "name": "Dr. Chendur Kumaran R",
+         "hierarchy": "Associate Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50381.jpg"
+      },
+      {
+         "name": "Dr. Deepa T",
+         "hierarchy": "Associate Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50571.jpg"
+      },
+      {
+         "name": "Dr. Jamuna K",
+         "hierarchy": "Associate Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50455.jpg"
+      },
+      {
+         "name": "Dr. Subbulekshmi D",
+         "hierarchy": "Associate Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50565.jpg"
+      },
+      {
+         "name": "Dr. Vaithilingam C",
+         "hierarchy": "Associate Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50594.jpg"
+      },
+      {
+         "name": "Dr. Arul R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50912.jpg"
+      },
+      {
+         "name": "Dr. Balamurugan P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50433.jpg"
+      },
+      {
+         "name": "Dr. Binu Ben Jose D R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50596.jpg"
+      },
+      {
+         "name": "Dr. Gnana Swathika O V",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50137.jpg"
+      },
+      {
+         "name": "Dr. Gunabalan R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50771.jpg"
+      },
+      {
+         "name": "Dr. Iyswarya Annapoorani K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50572.jpg"
+      },
+      {
+         "name": "Dr. Jayapragash R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50915.jpg"
+      },
+      {
+         "name": "Dr. Kanimozhi G",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50147.jpg"
+      },
+      {
+         "name": "Dr. Meenakshi J",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50155.jpg"
+      },
+      {
+         "name": "Dr. Sasipriya P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50142.jpg"
+      },
+      {
+         "name": "Dr. Sri Ramalakshmi P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50275.jpg"
+      },
+      {
+         "name": "Dr. Sri Revathi B",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50259.jpg"
+      },
+      {
+         "name": "Dr. Sumathi V",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Sumathi-V.jpg"
+      },
+      {
+         "name": "Dr. Umayal C",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50740.jpg"
+      },
+      {
+         "name": "Prof. Anantha Krishnan V",
+         "hierarchy": "Assistant Professor (SG)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50282.jpg"
+      },
+      {
+         "name": "Dr. Angalaeswari S",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50570.jpg"
+      },
+      {
+         "name": "Dr. Inayathullaah M.A.",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/Inayathullaah-1.jpg"
+      },
+      {
+         "name": "Dr. Mohamed Imran A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50786.jpg"
+      },
+      {
+         "name": "Dr. Nilanjan Tewari",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50439.jpg"
+      },
+      {
+         "name": "Prof. Lavanya V",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50265.jpg"
+      },
+      {
+         "name": "Dr. Srimathi R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50038.jpg"
+      },
+      {
+         "name": "Dr. Kuruseelan S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50582.jpg"
+      },
+      {
+         "name": "Dr. Meera P S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/50273.jpg"
+      }
+   ],
+   "electronic": [
+      {
+         "name": "Dr. Sivasubramanian A",
+         "hierarchy": "DEAN – Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Sivasubramanian-A.jpg"
+      },
+      {
+         "name": "Dr. Anith Nelleri",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Anith-Nelleri.jpg"
+      },
+      {
+         "name": "Dr. Brintha Therese A",
+         "hierarchy": "Professor & Deputy Director, Ranking and Accreditation",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Brintha-Therese-A.jpg"
+      },
+      {
+         "name": "Dr. Chitra K",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Chitra-K.jpg"
+      },
+      {
+         "name": "Dr. Gargi Raina",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Gargi-Raina.jpg"
+      },
+      {
+         "name": "Dr. Geetha Priya M",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/07/51719.jpg"
+      },
+      {
+         "name": "Dr. Kanchana Bhaaskaran V. S",
+         "hierarchy": "Professor & Pro-Vice Chancellor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Kanchana-Bhaskaran-V-S.jpg"
+      },
+      {
+         "name": "Dr. Lakshmi B",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Lakshmi-B.jpg"
+      },
+      {
+         "name": "Dr. Menaka R",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Menaka-R.jpg"
+      },
+      {
+         "name": "Dr. Ravi Sankar A",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Ravi-Sankar-A.jpg"
+      },
+      {
+         "name": "Dr. Thiripurasundari D",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Thiripurasundari-D.jpg"
+      },
+      {
+         "name": "Dr. Velmathi G",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Velmathi-G.jpg"
+      },
+      {
+         "name": "Dr. Vigneswaran T",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Vigneswaran-T.jpg"
+      },
+      {
+         "name": "Dr. Augusta Sophy Beulet P",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Augusta-Sophy-Beulet-P.jpg"
+      },
+      {
+         "name": "Dr. Bindu B",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Bindu-B.jpg"
+      },
+      {
+         "name": "Dr. Jagannath M",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Jagannath-M.jpg"
+      },
+      {
+         "name": "Dr. Kaustab Ghosh",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Kaustab-Ghosh.jpg"
+      },
+      {
+         "name": "Dr. Manoj Kumar R",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Manoj-Kumar-R.jpg"
+      },
+      {
+         "name": "Dr. Sangeetha R G",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Sangeetha-R-G.jpg"
+      },
+      {
+         "name": "Dr. Suchetha M",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Suchetha-M.jpg"
+      },
+      {
+         "name": "Dr. Susan Elias",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Susan-Elias.jpg"
+      },
+      {
+         "name": "Dr. Vetrivelan P",
+         "hierarchy": "Associate Professor Senior",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Vetrivelan-P.jpg"
+      },
+      {
+         "name": "Dr. Ananiah Durai S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Ananiah-Durai-S.jpg"
+      },
+      {
+         "name": "Dr. Anita Angeline A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Anita-Angeline-A.jpg"
+      },
+      {
+         "name": "Dr. Annis Fathima A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Annis-Fathima-A.jpg"
+      },
+      {
+         "name": "Dr. Bala Murugan M S",
+         "hierarchy": "Associate Professor ",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Bala-Murugan-M-S.jpg"
+      },
+      {
+         "name": "Dr. Berlin Hency V",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Berlin-Hency-V.jpg"
+      },
+      {
+         "name": "Dr. Chandrasekaran N",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Chandrasekaran-N.jpg"
+      },
+      {
+         "name": "Dr. Hemanth C",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Hemanth-C.jpg"
+      },
+      {
+         "name": "Dr. John Sahaya Rani Alex",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.John-Sahaya-Rani-Alex.jpg"
+      },
+      {
+         "name": "Dr. Mohanaprasad K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Mohanaprasad-K.jpg"
+      },
+      {
+         "name": "Dr. Nagajayanthi B",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Nagajayanthi-B.jpg"
+      },
+      {
+         "name": "Dr. Prathiba A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Prathiba-A.jpg"
+      },
+      {
+         "name": "Dr. Ravi V",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Ravi-V.jpg"
+      },
+      {
+         "name": "Dr. Reena Monica P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Reena-Monica-P.jpg"
+      },
+      {
+         "name": "Dr. Revathi S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Revathi-S.jpg"
+      },
+      {
+         "name": "Dr. Sivakumar S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51708.jpg"
+      },
+      {
+         "name": "Dr. Sakthivel S M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Sakthivel-S-M.jpg"
+      },
+      {
+         "name": "Dr. Subhashini N",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Subhashini-N.jpg"
+      },
+      {
+         "name": "Dr. Umadevi S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Umadevi-S.jpg"
+      },
+      {
+         "name": "Dr. Usha Kiran Kommuri",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Usha-Kiran-Kommuri.jpg"
+      },
+      {
+         "name": "Dr. Vijayakumar P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Vijayakumar-P.jpg"
+      },
+      {
+         "name": "Dr. Vydeki D",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Vydeki-D.jpg"
+      },
+      {
+         "name": "Dr. Ramesh R",
+         "hierarchy": "Assistant Professor (SG)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Ramesh-R.jpg"
+      },
+      {
+         "name": "Dr. Abraham Sudharson Ponraj",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/abraham.jpg"
+      },
+      {
+         "name": "Dr. Arivarasi A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51697.jpg"
+      },
+      {
+         "name": "Dr. Ashish Kumar",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51706.jpg"
+      },
+      {
+         "name": "Dr. Balaji V.R",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/Dr.V.R-Balaji.jpg"
+      },
+      {
+         "name": "Dr. Bharathi Sankar A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51718.jpg"
+      },
+      {
+         "name": "Dr. Chanthini Baskar",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51707.jpg"
+      },
+      {
+         "name": "Dr. Florence Gnana Poovathy J",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51711.jpg"
+      },
+      {
+         "name": "Dr. Gayathri Sivakumar",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51698.jpg"
+      },
+      {
+         "name": "Dr. Guga Priya G",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Guga-Priya-G.jpg"
+      },
+      {
+         "name": "Dr. Henridass.A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51753.jpg"
+      },
+      {
+         "name": "Dr. Idayachandran .G",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51720.jpg"
+      },
+      {
+         "name": "Dr. Jaya Vignesh T",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Jaya-Vignesh-T.jpg"
+      },
+      {
+         "name": "Dr. Jeetashree Aparajeeta",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51713.jpg"
+      },
+      {
+         "name": "Dr. Kalaivanan K",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51714.jpg"
+      },
+      {
+         "name": "Dr. Karthik R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Karthik-R.jpg"
+      },
+      {
+         "name": "Dr. Lakshmi Priya G",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51712.jpg"
+      },
+      {
+         "name": "Dr. Lucky Agarwal",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51702.jpg"
+      },
+      {
+         "name": "Dr. Manikandan E",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51709.jpg"
+      },
+      {
+         "name": "Dr. Muthulakshmi S",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Muthulakshmi-S.jpg"
+      },
+      {
+         "name": "Dr. Niraj Kumar",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/50260.jpg"
+      },
+      {
+         "name": "Dr. Nirmala P",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51715.jpg"
+      },
+      {
+         "name": "Dr. Om Prakash Sahu",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Om-Prakash-Sahu.jpg"
+      },
+      {
+         "name": "Dr. Papanasam E",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51699.jpg"
+      },
+      {
+         "name": "Dr. Pradeep Narayanan.S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51704.jpg"
+      },
+      {
+         "name": "Dr. Prashanth Kumar B",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51703.jpg"
+      },
+      {
+         "name": "Dr. Ranjeet Kumar",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51721.jpg"
+      },
+      {
+         "name": "Dr. Ravi Prakash Dwivedi",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Ravi-Prakash-Dwivedi.jpg"
+      },
+      {
+         "name": "Dr. Richards Joe Stanislaus",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/Dr.-Richards-Joe-Stanislaus.jpg"
+      },
+      {
+         "name": "Dr. Saranya Nair M",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Saranya-Nair-M.jpg"
+      },
+      {
+         "name": "Dr. Sasithradevi. A",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51752.jpg"
+      },
+      {
+         "name": "Dr. Sathya Sree J",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51700.jpg"
+      },
+      {
+         "name": "Dr. Saurav Gupta",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51744.jpg"
+      },
+      {
+         "name": "Dr. Sekar Sathiya Narayanan",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.-Sekar-Sathiya-Narayanan.jpg"
+      },
+      {
+         "name": "Dr. Selvendran S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51710.jpg"
+      },
+      {
+         "name": "Dr. Shoba S",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51716.jpg"
+      },
+      {
+         "name": "Dr. Sindhuja. M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51717.jpg"
+      },
+      {
+         "name": "Dr. Sofana Reka S",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Sofana-Reka-S.jpg"
+      },
+      {
+         "name": "Dr. Suganthi K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Dr.Suganthi-K.jpg"
+      },
+      {
+         "name": "Dr. Sunandita Debnath",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51705.jpg"
+      },
+      {
+         "name": "Dr. Thomas Joseph",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/51701.jpg"
+      },
+      {
+         "name": "Dr. Vijayarajan R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/04/Dr.R.-Vijayarajan.png"
+      },
+      {
+         "name": "Prof. Manikandan P",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Manikandan-P.jpg"
+      },
+      {
+         "name": "Dr. Prakash.V",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Prakash.V.jpg"
+      },
+      {
+         "name": "Prof. Ralph Samuel Thangaraj",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Ralph-Samuel-Thangaraj.jpg"
+      },
+      {
+         "name": "Prof. Srivatsan K",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/01/Prof.Srivatsan-K.jpg"
+      }
+   ],
+   "mechanical": [
+      {
+         "name": "Dr. Sivakumar R",
+         "hierarchy": "Dean and Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sivakumar-R-1.jpg"
+      },
+      {
+         "name": "Dr. Annamalai K",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Annamalai-K.jpg"
+      },
+      {
+         "name": "Dr.Bhaskara Rao",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Bhaskara-Rao.jpg"
+      },
+      {
+         "name": "Dr. Davidson Jebaseelan",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Davidson-Jebaseelan.jpg"
+      },
+      {
+         "name": "Dr. Deivanathan R",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Deivanathan-R.jpg"
+      },
+      {
+         "name": "Dr. Devaprakasam D",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/06/Devaprakasam_D.png"
+      },
+      {
+         "name": "Dr. Janardhan Reddy K",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Janardhan-Reddy-K.jpg"
+      },
+      {
+         "name": "Dr. Padmanabhan R",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr-Padmanabhan-R.jpg"
+      },
+      {
+         "name": "Dr. Sasikumar M",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sasikumar-M.jpg"
+      },
+      {
+         "name": "Dr. Sakthivel G",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sakthivel-G.jpg"
+      },
+      {
+         "name": "Dr. Sridhar V G",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sridhar-V-G.jpg"
+      },
+      {
+         "name": "Dr. Sugumaran V",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sugumaran-V.jpg"
+      },
+      {
+         "name": "Dr. Umasankar V",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Umasankar-V.jpg"
+      },
+      {
+         "name": "Dr. Venkatachalam G",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Venkatachalam-G.jpg"
+      },
+      {
+         "name": "Dr. Arockia Selvakumar",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Arockia-Selvakumar.jpg"
+      },
+      {
+         "name": "Dr. Christo Michael T",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Christo-Michael-T.jpg"
+      },
+      {
+         "name": "Dr. Joseph Daniel",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Joseph-Daniel.jpg"
+      },
+      {
+         "name": "Dr. Lenin Babu M C",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Lenin-Babu-M-C.jpg"
+      },
+      {
+         "name": "Dr. Manavalla Sreekanth",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Manavalla-Sreekanth.jpg"
+      },
+      {
+         "name": "Dr. Narayanan R",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Narayanan-R.jpg"
+      },
+      {
+         "name": "Dr. Shyam Kumar M B",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Shyam-Kumar-M-B.jpg"
+      },
+      {
+         "name": "Dr. Sreekanth Dondapati",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sreekanth-Dondapati.jpg"
+      },
+      {
+         "name": "Dr. Venugopal T",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Venugopal-T.jpg"
+      },
+      {
+         "name": "Dr. Giridharan A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Giridharan-A.jpg"
+      },
+      {
+         "name": "Dr. Jafferson J M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Jafferson-J-M.jpg"
+      },
+      {
+         "name": "Dr. Jegadeeshwaran R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Jegadeeshwaran-R.jpg"
+      },
+      {
+         "name": "Dr. Jeyanthi S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Jeyanthi-S.jpg"
+      },
+      {
+         "name": "Dr. Karunamurthy K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Karunamurthy-K.jpg"
+      },
+      {
+         "name": "Dr. Manimaran R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Manimaran-R.jpg"
+      },
+      {
+         "name": "Dr. Mohan R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Mohan-R.jpg"
+      },
+      {
+         "name": "Dr. Raghukiran Nadimpalli",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Raghukiran-Nadimpalli.jpg"
+      },
+      {
+         "name": "Dr. Senthil Kumar M",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Senthil-Kumar-M.jpg"
+      },
+      {
+         "name": "Dr. Tamil Selvan P",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Tamil-Selvan-P.jpg"
+      },
+      {
+         "name": "Dr. Vinayagamurthy G",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Vinayagamurthy-G.jpg"
+      },
+      {
+         "name": "Prof. Elango M",
+         "hierarchy": "Assistant Professor (SG)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.Elango-M.jpg"
+      },
+      {
+         "name": "Prof. Sivarajan S",
+         "hierarchy": "Assistant Professor (SG)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.Sivarajan-S.jpg"
+      },
+      {
+         "name": "Dr. Awani Bhushan",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51725.jpg"
+      },
+      {
+         "name": "Dr. Ayub Ahmed Janvekar",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51729.jpg"
+      },
+      {
+         "name": "Dr. Bhisham Kumar Dhurendher",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51722.jpg"
+      },
+      {
+         "name": "Dr. Feroskhan M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Feroskhan-M.jpg"
+      },
+      {
+         "name": "Dr. Gajanand Gupta",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51724.jpg"
+      },
+      {
+         "name": "Dr. R Harish",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-R-Harish.jpg"
+      },
+      {
+         "name": "Dr. Lakshmi Pathi Jakkamputi",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Lakshmi-Pathi-Jakkamputi.jpg"
+      },
+      {
+         "name": "Dr. G. Murali Mohan",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51727.jpg"
+      },
+      {
+         "name": "Dr. Manoj Kumar R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51723.jpg"
+      },
+      {
+         "name": "Dr. Mrutyunjay Panigrahi",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51726.jpg"
+      },
+      {
+         "name": "Prof. Radha R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.jpg"
+      },
+      {
+         "name": "Dr. Saravanakumar D",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Saravanakumar-D.jpg"
+      },
+      {
+         "name": "Dr. Swagatika Mohanty",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51728.jpg"
+      },
+      {
+         "name": "Dr. Tapan Kumar Mahantha",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51747.jpg"
+      },
+      {
+         "name": "Dr. Gobinath N",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.Gobinath-N.jpg"
+      }
+   ],
+   "civil": [
+      {
+         "name": "Dr.Muthumani K",
+         "hierarchy": "Dean and Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Muthumani-K.jpg"
+      },
+      {
+         "name": "Dr. Elavenil S",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Elavenil-S.jpg"
+      },
+      {
+         "name": "Dr. Helen Santhi M",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Helen-Santhi-M.jpg"
+      },
+      {
+         "name": "Dr. Sabumon P C",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Sabumon-P-C.jpg"
+      },
+      {
+         "name": "Dr. Saravanan K",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Saravanan-K.jpg"
+      },
+      {
+         "name": "Dr. Vasugi V",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Vasugi-V.jpg"
+      },
+      {
+         "name": "Dr. Yamini Sreevalli I",
+         "hierarchy": "Associate Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Yamini-Sreevalli-I.jpg"
+      },
+      {
+         "name": "Dr. Arun Kumar A",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Arun-Kumar-A.jpg"
+      },
+      {
+         "name": "Dr. Karthiyaini S",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Karthiyaini-S.jpg"
+      },
+      {
+         "name": "Dr. Mohan K",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Mohan-K.jpg"
+      },
+      {
+         "name": "Dr. Anjali Gopakumar",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Anjali-Gopakumar.jpg"
+      },
+      {
+         "name": "Dr. Goutham Sarang",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Goutham-Sarang.jpg"
+      },
+      {
+         "name": "Prof. Karthikeyan K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.Karthikeyan-K-1.jpg"
+      },
+      {
+         "name": "Dr. Ramesh Kannan M",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Ramesh-Kannan-M.jpg"
+      },
+      {
+         "name": "Dr. Shanmuga Sundaram",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Shanmuga-Sundaram.jpg"
+      },
+      {
+         "name": "Prof. Vasugi K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.Vasugi-K.jpg"
+      },
+      {
+         "name": "Dr. Senthilpandian M",
+         "hierarchy": "Assistant Professor (Sr)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.Senthilpandian-M.jpg"
+      }
+   ],
+   "law": [
+      {
+         "name": "Dr.M Gandhi",
+         "hierarchy": "Professor and Dean",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.M-Gandhi.jpg"
+      },
+      {
+         "name": "Dr. Rabbiraj C",
+         "hierarchy": "Associate Professor and Assistant Dean",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Rabbiraj-C.jpg"
+      },
+      {
+         "name": "Prof. Rajasingh Handal Devadas",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Rajasingh-Handal-Devadas.jpg"
+      },
+      {
+         "name": "Dr. Subhakara Reddy",
+         "hierarchy": "Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Subhakara-Reddy.jpg"
+      },
+      {
+         "name": "Dr. Kesavamoorthy R",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.Kesavamoorthy-R.jpg"
+      },
+      {
+         "name": "Dr. Rajavenkatesan P R L",
+         "hierarchy": "Associate Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Rajavenkatesan-P-R-L.jpg"
+      },
+      {
+         "name": "Dr. Ajitha E",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51761.jpg"
+      },
+      {
+         "name": "Dr. Ambika R Nair",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Ambika-R-Nair.jpg"
+      },
+      {
+         "name": "Dr. Ananda Krishna Raj S",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Ananda-Krishna-Raj-S.jpg"
+      },
+      {
+         "name": "Dr. Bhabani Sonowal",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Bhabani-Sonowal.jpg"
+      },
+      {
+         "name": "Dr. Ganesan K",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Ganesan-K.jpg"
+      },
+      {
+         "name": "Dr. Jayendra Kasture",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51740.jpg"
+      },
+      {
+         "name": "Dr. Jishnu J R",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-Jishnu-J-R.jpg"
+      },
+      {
+         "name": "Dr. Prema E",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/50907.jpg"
+      },
+      {
+         "name": "Dr. M.S. Sharmila",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.-M.S.Sharmila.jpg"
+      },
+      {
+         "name": "Prof. T Abul Hassan",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-T-Abul-Hassan.jpg"
+      },
+      {
+         "name": "Prof. Anbarasi G",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Anbarasi-G.jpg"
+      },
+      {
+         "name": "Prof. Ankit Kumar Padhy",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Ankit-Kumar-Padhy.jpg"
+      },
+      {
+         "name": "Prof. Arun D Raj",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/prof-arun-d-raj.jpg"
+      },
+      {
+         "name": "Prof. Dulung Sengupta",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/prof-dulung-sengupta.jpg"
+      },
+      {
+         "name": "Prof. K Kamban Socretes",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-K-Kamban-Socretes.jpg"
+      },
+      {
+         "name": "Prof. Navami S",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51739.jpg"
+      },
+      {
+         "name": "Prof. Rajasathya K R",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Rajasathya-K-R.jpg"
+      },
+      {
+         "name": "Prof. Shinsa P Mathew",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-SHINSA-P-MATHEW.jpg"
+      },
+      {
+         "name": "Prof. Tania Sebastian",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Tania-Sebastian.jpg"
+      },
+      {
+         "name": "Prof. Zakkariya T H",
+         "hierarchy": "Assistant Professor",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Zakkariya-T-H.jpg"
+      }
+   ],
+   "fashion": [
+      {
+         "name": "Dr.T. Palani Rajan",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.T.Palani-Rajan.jpg"
+      },
+      {
+         "name": "Dr.A. Selvakumar",
+         "hierarchy": "Assistant Professor (Sr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Dr.A.Selvakumar.jpg"
+      },
+      {
+         "name": "Prof.N. Gayathri",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/09/51073.jpg"
+      },
+      {
+         "name": "Prof. Georgy Sunny",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Georgy-Sunny.jpg"
+      },
+      {
+         "name": "Prof. Jesica Roshima A",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.-Jesica-Roshima-A.jpg"
+      },
+      {
+         "name": "Prof.M. Maanvizhi",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.M.Maanvizhi.jpg"
+      },
+      {
+         "name": "Prof D. Vasanth Kumar",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof-D.Vasanth-Kumar.jpg"
+      },
+      {
+         "name": "Prof.S. Vinusowndarya",
+         "hierarchy": "Assistant Professor (Jr.)",
+         "thumbnail": "https://chennai.vit.ac.in/wp-content/uploads/2020/02/Prof.S.Vinusowndarya.jpg"
+      }
+   ]
+}
