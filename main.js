@@ -3,7 +3,8 @@
 const express = require('express'); // To serve the webpage
 const bodyParser = require('body-parser'); // To parse POST data
 const app = express();
-app.use(bodyParser.urlencoded({extended: false})); // extended false => key: value will be string or array
+app.use(express.urlencoded());
+app.use(express.json());
 
 // Routes
 const api = require('./routes/api');
